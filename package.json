@@ -1,0 +1,27 @@
+{
+  "name": "nft-open-emoji-generator",
+  "version": "1.0.0",
+  "description": "NFT open emoji generator",
+  "main": "index.js",
+  "bin": "index.js",
+  "pkg": {
+    "assets": [
+      "layers/**/*",
+      "node_modules/**/*",
+      "src/**/*"
+    ]
+  },
+  "scripts": {
+    "generate": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Min",
+    "email": "route666@live.cn"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "canvas": "^2.8.0",
+    "sha1": "^1.1.1"
+  }
+}
