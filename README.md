@@ -15,4 +15,4 @@ We have different [layers](`https://github.com/ilovelili/nft-open-emoji-generato
 ## Images and metadata on IPFS
 
 - [images](`https://gateway.pinata.cloud/ipfs/QmeW3ePhHEeaWSgG8ydxTo3zi57LaA2j7kknjoEK2mkbYR`)
-- [metadata](`https://gateway.pinata.cloud/ipfs/QmSWKZ2J4Uy8rToG97cny8d3h9cqBNGm54dx3QCxJVsJ8R`)
+- [metadata](`https://gateway.pinata.cloud/ipfs/QmRs1QsZ8SMDQXki5NmpN61MujeiF4cvvXz8SJsSDiyL7t`)
